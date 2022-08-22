@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="168e547f-d041-454f-8ecf-57ac8518d980" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lexicon/fundamentals/oop/schoolproject/CommandLineInterfaceClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lexicon/fundamentals/oop/schoolproject/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lexicon/fundamentals/oop/schoolproject/Data_Access/CourseDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lexicon/fundamentals/oop/schoolproject/Data_Access/CourseDAOList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lexicon/fundamentals/oop/schoolproject/Data_Access/StudentDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lexicon/fundamentals/oop/schoolproject/Data_Access/StudentDAOList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lexicon/fundamentals/oop/schoolproject/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lexicon/fundamentals/oop/schoolproject/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lexicon/fundamentals/oop/schoolproject/CourseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lexicon/fundamentals/oop/schoolproject/Data_Access/CourseDAOListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lexicon/fundamentals/oop/schoolproject/Data_Access/StudentDAOListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lexicon/fundamentals/oop/schoolproject/StudentTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2CnI3Gq2XDIsQfCo6pWvrE5cwnt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_opened_file_path": "C:/Users/deltagare/IdeaProjects/Collections_Exercises_Lexicon"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="lexicon.fundamentals.oop.schoolproject.Data_Access" />
+      <recent name="lexicon.fundamentals.oop.schoolproject" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="CommandLineInterfaceClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lexicon.fundamentals.oop.schoolproject.CommandLineInterfaceClass" />
+      <module name="School_Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lexicon.fundamentals.oop.schoolproject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lexicon.fundamentals.oop.schoolproject.Main" />
+      <module name="School_Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lexicon.fundamentals.oop.schoolproject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CourseDAOListTest.findAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="School_Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lexicon.fundamentals.oop.schoolproject.Data_Access.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lexicon.fundamentals.oop.schoolproject.Data_Access" />
+      <option name="MAIN_CLASS_NAME" value="lexicon.fundamentals.oop.schoolproject.Data_Access.CourseDAOListTest" />
+      <option name="METHOD_NAME" value="findAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CourseDAOListTest.findByDate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="School_Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lexicon.fundamentals.oop.schoolproject.Data_Access.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lexicon.fundamentals.oop.schoolproject.Data_Access" />
+      <option name="MAIN_CLASS_NAME" value="lexicon.fundamentals.oop.schoolproject.Data_Access.CourseDAOListTest" />
+      <option name="METHOD_NAME" value="findByDate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CourseDAOListTest.removeCourse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="School_Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lexicon.fundamentals.oop.schoolproject.Data_Access.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lexicon.fundamentals.oop.schoolproject.Data_Access" />
+      <option name="MAIN_CLASS_NAME" value="lexicon.fundamentals.oop.schoolproject.Data_Access.CourseDAOListTest" />
+      <option name="METHOD_NAME" value="removeCourse" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.CommandLineInterfaceClass" />
+        <item itemvalue="JUnit.CourseDAOListTest.removeCourse" />
+        <item itemvalue="JUnit.CourseDAOListTest.findAll" />
+        <item itemvalue="JUnit.CourseDAOListTest.findByDate" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="168e547f-d041-454f-8ecf-57ac8518d980" name="Changes" comment="" />
+      <created>1659431722311</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659431722311</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
